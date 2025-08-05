@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: mastare.jpg
+img: mastare.jpeg
 alt: image-alt
 project-date: Oktober 2025
 client: Bokning via medborgarskolan
