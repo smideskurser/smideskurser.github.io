@@ -21,23 +21,26 @@
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
-              <li>Client:
+              <li>Var:
                 <strong>{{ post.client }}</strong>
               </li>
               {% endif %}
               {% if post.project-date %}
-              <li>Date:
+              <li>När:
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Service:
-                <strong>{{ post.category }}</strong>
+              <li>Pris:
+                <strong>{{ post.pris }}</strong>
               </li>
               {% endif %}
             </ul>
+            <div>
+              {% post.content %}
+            </div>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
-              Close</button>
+              Stäng</button>
           </div>
         </div>
       </div>
