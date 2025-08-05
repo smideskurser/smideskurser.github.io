@@ -25,6 +25,21 @@
                 <strong>{{ post.client }}</strong>
               </li>
               {% endif %}
+              {% if post.nar %}
+              <li>När:
+                <strong>{{ post.nar }}</strong>
+              </li>
+              {% endif %}
+              {% if post.var %}
+              <li>Var:
+                <strong>{{ post.var }}</strong>
+              </li>
+              {% endif %}
+              {% if post.pris %}
+              <li>Pris:
+                <strong>{{ post.pris }}</strong>
+              </li>
+              {% endif %}
               {% if post.project-date %}
               <li>När:
                 <strong>{{ post.project-date }}</strong>
@@ -33,11 +48,6 @@
               {% if post.category %}
               <li>Kategori:
                 <strong>{{ post.category }}</strong>
-              </li>
-              {% endif %}
-              {% if post.pris %}
-              <li>Pris:
-                <strong>{{ post.pris }}</strong>
               </li>
               {% endif %}
             </ul>
