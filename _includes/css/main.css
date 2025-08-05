@@ -297,6 +297,18 @@ section.success {
     background: #fff;
 }
 
+.form-control {
+    border: 1px solid #444;
+    border-radius: 8px;  
+    padding: 10px 14px;         
+    font-size: 16px;
+    outline: none;  
+}
+
+.form-control:focus {
+  border-color: #888;          
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
