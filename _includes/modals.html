@@ -31,8 +31,13 @@
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Pris:
+              <li>Kategori:
                 <strong>{{ post.category }}</strong>
+              </li>
+              {% endif %}
+              {% if post.pris %}
+              <li>Pris:
+                <strong>{{ post.pris }}</strong>
               </li>
               {% endif %}
             </ul>
