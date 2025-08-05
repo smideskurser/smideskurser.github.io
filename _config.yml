@@ -48,7 +48,7 @@ address:
   - line: 263 94 Mjöhult
 
 # Credits content
-credits: 'Hej då'
+credits: '![](/img/portfolio/mastare.jpeg)'
 
 # Build settings
 markdown: kramdown
