@@ -6,7 +6,8 @@ img: mastare.jpeg
 alt: image-alt
 project-date: Oktober 2025
 client: Bokning via medborgarskolan
-category: Smide
+nar: I höst
+var: På vischan
 pris: 10 lax
 description: Kom och lär dig smida spik! 
 ---
