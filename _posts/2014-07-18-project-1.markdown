@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Oktober 2025
 client: Bokning via medborgarskolan
 category: Web Development
-description: Kom och lär dig smida spik! [ansök här](https://example.com)
+description: Kom och lär dig smida spik! 
 ---
 
