@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: mastare.jpg
+img: svets.jpeg
 alt: image-alt
 nar: 20, 21 och 27, 28 september 2025
 var: Gunnestorpsvägen 25, Mjöhult (utanför Höganäs)
