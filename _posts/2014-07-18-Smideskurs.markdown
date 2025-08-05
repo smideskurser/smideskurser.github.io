@@ -6,7 +6,8 @@ img: mastare.jpg
 alt: image-alt
 project-date: Oktober 2025
 client: Bokning via medborgarskolan
-category: Web Development
+category: Smide
+pris: 10 lax
 description: Kom och lär dig smida spik! 
 ---
 
