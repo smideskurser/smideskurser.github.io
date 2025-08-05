@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: mastare.jpeg
+img: mastare.jpg
 alt: image-alt
 nar: I höst
 var: På vischan
