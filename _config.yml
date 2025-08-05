@@ -1,4 +1,4 @@
-# Site settings
+då# Site settings
 title: Smideskurser
 email: niklas@fannick.se
 url: https://smideskurser.se
@@ -35,7 +35,7 @@ footer:
   copyright: Niklas & Jessica Fännick
   location: Var du hittar oss
   social: Instagram
-  credits: Credits
+  credits: Övrigt
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,7 +48,7 @@ address:
   - line: 263 94 Mjöhult
 
 # Credits content
-credits: ''
+credits: 'Hej då'
 
 # Build settings
 markdown: kramdown
