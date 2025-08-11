@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: svetskurs_900x650.png
 alt: image-alt
 nar: 20, 21 och 27, 28 september 2025
