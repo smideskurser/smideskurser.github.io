@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
 img: lufthammare_900x650.jpg
 alt: image-alt
 nar: Efter överenskommelse
