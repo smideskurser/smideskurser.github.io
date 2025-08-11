@@ -1,9 +1,8 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
 img: sandgjutning_900x650.jpg
-alt: image-alt
+alt: sandgjutning
 nar: Helger efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 3500 kr
