@@ -225,6 +225,7 @@ section.success {
     height: 100%;
     color:white;
     text-align:center;
+    vertical-align:center;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
