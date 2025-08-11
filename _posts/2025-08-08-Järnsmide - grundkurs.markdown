@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
 img: smide_900x650.png
 alt: image-alt
 var: Gunnestorpsvägen 25, Mjöhult
