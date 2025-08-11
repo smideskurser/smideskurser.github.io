@@ -20,11 +20,6 @@
             <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
-              {% if post.client %}
-              <li>Var:
-                <strong>{{ post.client }}</strong>
-              </li>
-              {% endif %}
               {% if post.nar %}
               <li>När:
                 <strong>{{ post.nar }}</strong>
@@ -40,14 +35,11 @@
                 <strong>{{ post.pris }}</strong>
               </li>
               {% endif %}
-              {% if post.project-date %}
-              <li>När:
-                <strong>{{ post.project-date }}</strong>
-              </li>
-              {% endif %}
-              {% if post.category %}
-              <li>Kategori:
-                <strong>{{ post.category }}</strong>
+              {% if post.anmalan %}
+              <li>Anmäl dig här:
+                <a href="{{ post.anmalan }}" target="_blank">
+                <button>Ansök nu</button>
+                </a>
               </li>
               {% endif %}
             </ul>
