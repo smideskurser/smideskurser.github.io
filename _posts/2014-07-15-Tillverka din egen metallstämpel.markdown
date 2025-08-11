@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: stamplar_900x650.png
 alt: image-alt
 nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
