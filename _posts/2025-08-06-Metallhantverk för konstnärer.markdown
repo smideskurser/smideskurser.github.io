@@ -1,9 +1,8 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
 img: konstsmide_900x650.jpg
-alt: image-alt
+alt: Konstsmide
 nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 3500 kr
