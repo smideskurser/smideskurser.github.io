@@ -19,7 +19,8 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
-            <ul class="list-inline item-details">
+            <!-- Originally with list-inline -->
+            <ul class="item-details">
               {% if post.nar %}
               <li>När:
                 <strong>{{ post.nar }}</strong>
