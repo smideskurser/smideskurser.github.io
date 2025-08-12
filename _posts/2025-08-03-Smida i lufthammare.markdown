@@ -6,7 +6,7 @@ alt: lufthammare
 nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 4800 kr
-anmalan: https://smideskurser.se/#contact
+anmalan: #contact
 description: "En praktisk heldagskurs där du får möjlighet att smida i en klassisk fyrtiokilos lufthammare. Vi provar på lackning/doning av hål, räckning, smide med sänke och sätthammare. Kom gärna med önskemål om vad du vill smida på förhand, så kan vi förbereda bättre."
 ---
 

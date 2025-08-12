@@ -35,14 +35,14 @@
                 <strong>{{ post.pris }}</strong>
               </li>
               {% endif %}
+            </ul>
               {% if post.anmalan %}
-              <li>
+              <p>
                 <a href="{{ post.anmalan }}" target="_blank" class="btn btn-success btn-lg">
           <i class="fa fa-external-link-alt"></i> Anmäl dig här</a>
-              </li>
-             
+             </p>
               {% endif %}
-            </ul>
+            
             {% if post.content %}
             <div style="text-align:left">
             {{ post.content }}
