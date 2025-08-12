@@ -229,11 +229,6 @@ section.success {
     padding: 0.5em;
     color:white;
     -webkit-text-stroke: 1px black;
-    text-shadow:
-    -1px -1px 0 black,  
-     1px -1px 0 black,
-    -1px  1px 0 black,
-     1px  1px 0 black;
     text-align:center;
     vertical-align:center;
     display: flex; align-items: center; justify-content: center; 
