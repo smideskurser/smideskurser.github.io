@@ -8,6 +8,7 @@ body {
     overflow-x: hidden;
     word-wrap: break-word;     /* Legacy name */
   overflow-wrap: break-word; /* Modern standard */
+  hyphens: auto;
 }
 
 p {
