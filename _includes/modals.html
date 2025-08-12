@@ -40,6 +40,8 @@
                 <a href="{{ post.anmalan }}" target="_blank" class="btn btn-lg btn-outline">
           <i class="fa fa-external-link-alt"></i> Anmäl dig här</a>
               </li>
+              {% else %}
+              Ingen anmälan
               {% endif %}
             </ul>
             {% if post.content %}
