@@ -6,7 +6,8 @@ alt: stämplar
 nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 4200 kr
-description: En grundkurs i manuell tillverkning av egna stämplar för varm- eller kallstämpling i metall eller trä. Vi använder oss av handarbetsmetoder så som filning, borrning, mejsling, sågning och härdning för att skapa egna stämplar efter egen design. Observera att inte alla designer går att tillverka på manuell väg, men vi gör vad vi kan för att förverkliga din idé. 
+anmalan: https://smideskurser.se/#contact
+description: "En grundkurs i manuell tillverkning av egna stämplar för varm- eller kallstämpling i metall eller trä. Vi använder oss av handarbetsmetoder så som filning, borrning, mejsling, sågning och härdning för att skapa egna stämplar efter egen design. Observera att inte alla designer går att tillverka på manuell väg, men vi gör vad vi kan för att förverkliga din idé."
 ---
 
 ### Upplägg
