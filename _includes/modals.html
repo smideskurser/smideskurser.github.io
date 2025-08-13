@@ -54,11 +54,11 @@
             {{ post.content }}
             {% endif %}
             </div>
-            {% if not post.anmalan %}
+            {% unless post.anmalan %}
             <div id="anmalan{{ post.modal-id }}">
             {% include contact_static.html %}
             </div>
-            {% endif %}
+            {% endunless %}
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Stäng</button>
           </div>
         </div>
