@@ -39,12 +39,12 @@
             </ul>
               {% if post.anmalan %}
               <p>
-                <a href="#anmalan{{ post.modal-id }}" class="btn btn-success btn-lg">
+                <a href="{{ post.anmalan }}" class="btn btn-success btn-lg">
           <i class="fa fa-external-link-alt"></i> Anmäl dig här</a>
              </p>
              {% else %}
              <p>
-                <a href="{{ post.anmalan }}" class="btn btn-success btn-lg" >
+                <a href="#anmalan{{ post.modal-id }}" class="btn btn-success btn-lg" >
            Anmäl dig längst ner</a>
              </p>
               {% endif %}
