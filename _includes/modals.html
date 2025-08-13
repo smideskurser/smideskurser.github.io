@@ -39,8 +39,13 @@
             </ul>
               {% if post.anmalan %}
               <p>
-                <a href="{{ post.anmalan }}" class="btn btn-success btn-lg" data-dismiss="modal" target="_blank">
+                <a href="#anmalan{{ post.modal-id }}" class="btn btn-success btn-lg">
           <i class="fa fa-external-link-alt"></i> Anmäl dig här</a>
+             </p>
+             {% else %}
+             <p>
+                <a href="{{ post.anmalan }}" class="btn btn-success btn-lg" >
+           Anmäl dig längst ner</a>
              </p>
               {% endif %}
             
@@ -49,6 +54,11 @@
             {{ post.content }}
             {% endif %}
             </div>
+            {% if not post.anmalan %}
+            <div id="anmalan{{ post.modal-id }}">
+            {% include contact_static.html %}
+            </div>
+            {% endif %}
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Stäng</button>
           </div>
         </div>
