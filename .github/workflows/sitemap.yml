@@ -3,7 +3,7 @@ name: Generate Sitemap
 on:
   push:
     branches:
-      - main   # eller 'master' om din default branch heter så
+      - master   # eller 'master' om din default branch heter så
   workflow_dispatch: # gör att du kan köra den manuellt också
 
 jobs:
