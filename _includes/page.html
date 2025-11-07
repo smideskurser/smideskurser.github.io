@@ -12,7 +12,7 @@
           <div class="modal-body">
             <h2>{{ page.title }}</h2>
             <hr class="star-primary">
-            <img src="/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
             {% if page.description %}
             <p>{{ page.description }}</p>
             {% endif %}
@@ -25,7 +25,7 @@
               {% endif %}
               {% if page.var %}
               <li>Var:
-                <strong><a href="https://www.google.se/maps/search/{{ post.var }}" target="_blank">{{ page.var }}</a></strong>
+                <strong><a href="https://www.google.se/maps/search/{{ page.var }}" target="_blank">{{ page.var }}</a></strong>
               </li>
               {% endif %}
               {% if page.pris %}
@@ -36,23 +36,23 @@
             </ul>
               {% if page.anmalan %}
               <p>
-                <a href="{{ post.anmalan }}" class="btn btn-success btn-lg" target="_blank">
+                <a href="{{ page.anmalan }}" class="btn btn-success btn-lg" target="_blank">
           <i class="fa fa-external-link-alt"></i> Anmäl dig här</a>
              </p>
              {% else %}
              <p>
-                <a href="#anmalan{{ post.modal-id }}" class="btn btn-success btn-lg" >
+                <a href="#anmalan{{ page.modal-id }}" class="btn btn-success btn-lg" >
            Anmäl dig längst ner</a>
              </p>
               {% endif %}
             
-            {% if post.content %}
+            {% if page.content %}
             <div style="text-align:left">
             {{ content }}
             {% endif %}
             </div>
-            {% unless post.anmalan %}
-            <div id="anmalan{{ post.modal-id }}">
+            {% unless page.anmalan %}
+            <div id="anmalan{{ page.modal-id }}">
             {% include contact_static.html %}
             </div>
             {% endunless %}
