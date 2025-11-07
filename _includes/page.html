@@ -1,0 +1,66 @@
+
+<div>
+  <div class="modal-content">
+      <div class="lr">
+        <div class="rl">
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
+            <h2>{{ page.title }}</h2>
+            <hr class="star-primary">
+            <img src="/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            {% if page.description %}
+            <p>{{ page.description }}</p>
+            {% endif %}
+            <!-- Originally with list-inline -->
+            <ul class="list-unstyled item-details">
+              {% if page.nar %}
+              <li>När:
+                <strong>{{ page.nar }}</strong>
+              </li>
+              {% endif %}
+              {% if page.var %}
+              <li>Var:
+                <strong><a href="https://www.google.se/maps/search/{{ post.var }}" target="_blank">{{ page.var }}</a></strong>
+              </li>
+              {% endif %}
+              {% if page.pris %}
+              <li>Pris:
+                <strong>{{ page.pris }}</strong>
+              </li>
+              {% endif %}
+            </ul>
+              {% if page.anmalan %}
+              <p>
+                <a href="{{ post.anmalan }}" class="btn btn-success btn-lg" target="_blank">
+          <i class="fa fa-external-link-alt"></i> Anmäl dig här</a>
+             </p>
+             {% else %}
+             <p>
+                <a href="#anmalan{{ post.modal-id }}" class="btn btn-success btn-lg" >
+           Anmäl dig längst ner</a>
+             </p>
+              {% endif %}
+            
+            {% if post.content %}
+            <div style="text-align:left">
+            {{ content }}
+            {% endif %}
+            </div>
+            {% unless post.anmalan %}
+            <div id="anmalan{{ post.modal-id }}">
+            {% include contact_static.html %}
+            </div>
+            {% endunless %}
+            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Stäng</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
