@@ -1,29 +1,71 @@
----
-layout: none
-permalink: /sitemap.xml
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  {% assign base = site.url | default: site.github.url %}
-
-  <!-- Pages -->
-  {% for page in site.pages %}
-    {% if page.url and page.sitemap != false %}
-    <url>
-      <loc>{{ base }}{{ page.url | replace: "index.html", "" }}</loc>
-      <lastmod>{{ page.date | date_to_xmlschema | default: site.time | date_to_xmlschema }}</lastmod>
-    </url>
-    {% endif %}
-  {% endfor %}
-
-  <!-- Posts -->
-  {% for post in site.posts %}
-    <url>
-      <loc>{{ base }}{{ post.url }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-    </url>
-  {% endfor %}
-
+<url>
+<loc>https://smideskurser.se/</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/about.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/contact.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/contact_disqus.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/contact_static.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/footer.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/head.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/header.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/js.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/js_disqus.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/modals.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/nav.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/page.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/portfolio_grid.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_includes/post.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_layouts/default.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
+<url>
+<loc>https://smideskurser.se/_layouts/page.html</loc>
+<lastmod>2025-11-09T15:04:33+01:00</lastmod>
+</url>
 </urlset>
