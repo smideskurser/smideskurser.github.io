@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 modal-id: 3
 img: byggvard_900x650.jpg
 alt: Byggvård
@@ -7,6 +7,7 @@ var: Gunnestorpsvägen 25, Mjöhult
 nar: Enligt överenskommelse
 pris: 3500 kr
 description: "Under denna kurs tittar vi på enkel metallbearbetning som du kan ha användning för om du renoverar fönster eller håller på med annan byggnadsvård och behöver komplettera med tidstypiska detaljer. Vi provar olika kallbearbetningsmetoder som du kan ha nytta av i ditt arbete, så som filning, mejsling, nitning och hålslagning samt enklare varmbearbetning. Materialkännedom och ytbehandling ingår. Meddela gärna kursledaren om det är nåt särkilt du önskar gå igenom."
+permalink: /byggvard/
 ---
 
 ### Upplägg

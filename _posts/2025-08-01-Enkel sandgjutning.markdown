@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 modal-id: 7
 img: sandgjutning_900x650.jpg
 alt: sandgjutning
@@ -7,6 +7,7 @@ nar: Helger efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 3500 kr
 description: "En grundkurs i enkel sandgjutning i metall. Du får lära dig grundläggande teknik för att kunna börja med gjutning som hobby. Vi packar gjutflaskor, smälter metall och gjuter små föremål. Aluminium och mässing i första hand."
+permalink: /sandgjutning/
 ---
 
 ### Upplägg

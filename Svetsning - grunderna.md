@@ -8,7 +8,7 @@ var: Gunnestorpsvägen 25, Mjöhult
 pris: 2500 kr
 anmalan: https://www.medborgarskolan.se/arrangemang-sok/svetsning-grunderna-1471223/
 description: En kurs i grundläggande teknik och materialkännedom för att kunna ha svetsning som hobby eller fixa saker själv hemma. Fokus lägger vi på övning i manuell metallbågsvetsning (MMA) som är den vanligast förekommande typen av svetsning, men vi provar också MIG/MAG och gassvetsning (acetylen/oxygen). Du får lära dig grundläggande om brandskydd och arbetsmiljö för att kunna arbeta på ett säkert sätt.
-permalink: /svetsning/
+
 ---
 
 ### Upplägg
