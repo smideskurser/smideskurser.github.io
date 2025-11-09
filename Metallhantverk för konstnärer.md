@@ -1,21 +1,22 @@
 ---
-layout: default
-modal-id: 7
-img: sandgjutning_900x650.jpg
-alt: sandgjutning
-nar: Helger efter överenskommelse
+layout: page
+modal-id: 6
+img: konstsmide_900x650.jpg
+alt: Konstsmide
+nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 3500 kr
-description: "En grundkurs i enkel sandgjutning i metall. Du får lära dig grundläggande teknik för att kunna börja med gjutning som hobby. Vi packar gjutflaskor, smälter metall och gjuter små föremål. Aluminium och mässing i första hand."
+description: "En konstnär har stor användning för olika metalltekniker i sin praktik. Den här kursen försöker vi anpassa efter det du behöver i ditt konstnärliga arbetet. Du kan få personlig guidning inom det du behöver, få ny inspiration av nya tekniker och materialkännedom inom järn och stål. Fokus ligger på praktiskt arbete med svets eller formning av metaller i stora eller små format efter dina önskemål. Du kan också använda kursen som en workshop för egna projekt som behöver göras. Kontakta oss gärna innan kursen så vi kan ta fram material som behövs."
+permalink: /kostsmide/
 ---
 
 ### Upplägg
 
-Helgkurs. Lördag 10-17 och söndag 9-15. Kontakta oss för detaljer.
+12 timmar. Helgkurser eller vardagar. Kontakta oss med önskemål.
 
 ### För vem
 
-Kursen riktar sig till den som vill lära sig grunderna i metallgjutning. 
+Kursen riktar sig till aktiva konstnärer. 
 
 ### Kursledare
 

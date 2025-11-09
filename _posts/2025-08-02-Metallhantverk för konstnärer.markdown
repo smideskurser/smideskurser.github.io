@@ -7,7 +7,6 @@ nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
 pris: 3500 kr
 description: "En konstnär har stor användning för olika metalltekniker i sin praktik. Den här kursen försöker vi anpassa efter det du behöver i ditt konstnärliga arbetet. Du kan få personlig guidning inom det du behöver, få ny inspiration av nya tekniker och materialkännedom inom järn och stål. Fokus ligger på praktiskt arbete med svets eller formning av metaller i stora eller små format efter dina önskemål. Du kan också använda kursen som en workshop för egna projekt som behöver göras. Kontakta oss gärna innan kursen så vi kan ta fram material som behövs."
-permalink: /kostsmide/
 ---
 
 ### Upplägg

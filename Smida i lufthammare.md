@@ -1,21 +1,22 @@
 ---
-layout: default
-modal-id: 7
-img: sandgjutning_900x650.jpg
-alt: sandgjutning
-nar: Helger efter överenskommelse
+layout: page
+modal-id: 5
+img: lufthammare_900x650.jpg
+alt: lufthammare
+nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
-pris: 3500 kr
-description: "En grundkurs i enkel sandgjutning i metall. Du får lära dig grundläggande teknik för att kunna börja med gjutning som hobby. Vi packar gjutflaskor, smälter metall och gjuter små föremål. Aluminium och mässing i första hand."
+pris: 4800 kr
+description: "En praktisk heldagskurs där du får möjlighet att smida i en klassisk fyrtiokilos lufthammare. Vi provar på lackning/doning av hål, räckning, smide med sänke och sätthammare. Kom gärna med önskemål om vad du vill smida på förhand, så kan vi förbereda bättre."
+permalink: /lufthammare/
 ---
 
 ### Upplägg
 
-Helgkurs. Lördag 10-17 och söndag 9-15. Kontakta oss för detaljer.
+Heldag. Efter deltagares önskemål. Vardag, helg. 
 
 ### För vem
 
-Kursen riktar sig till den som vill lära sig grunderna i metallgjutning. 
+Kursen riktar sig till dig som har tidigare erfarenhet av varmsmide. Kontakta oss för mer information.
 
 ### Kursledare
 
@@ -23,7 +24,7 @@ Niklas Fännick är konstsmed med mästarbrev och har arbetat med metallkonst i 
 
 ### Kursmaterial
 
-Material till självkostnadspris. Nödvändig skyddsutrustning och verktyg finns att låna eller köpa på plats. Ha kraftiga skor och oömma kläder i bomull, ylle, lin eller skinn. Undvik syntetmaterial.
+Material till självkostnadspris. Nödvändig skyddsutrustning, verktyg och kurslitteratur finns att låna eller köpa på plats. Ha kraftiga skor och oömma kläder i bomull, ylle, lin eller skinn. Undvik syntetmaterial.
 Om du har en egna verktyg som du vill använda under kursen går det bra att ta med dessa, men du tar eget ansvar för dem.
 
 ### Bra att veta
