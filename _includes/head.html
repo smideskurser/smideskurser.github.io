@@ -32,4 +32,42 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Smideskurser.se",
+  "image": "https://www.smideskurser.se/img/front.jpg",
+  "url": "https://www.smideskurser.se",
+  "telephone": "+46 70-498 13 71",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gunnestorpsvägen 25",
+    "addressLocality": "Mjöhult",
+    "postalCode": "263 93",
+    "addressCountry": "SE"
+  },
+  "openingHoursSpecification": {
+  "@type": "OpeningHoursSpecification",
+  "description": "Öppet enligt överenskommelse"
+ }
+}
+</script>
+{% for post in site.posts %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "{{ post.title }}",
+  "description": "{{ post.description }}",
+  "provider": {
+    "@type": "Organization",
+    "name": "Smideskurser.se",
+    "sameAs": "https://www.smideskurser.se"
+  }
+}
+{% endfor %}
+</script>
 </head>
