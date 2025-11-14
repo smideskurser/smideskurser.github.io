@@ -1,10 +1,19 @@
+---
+layout: faq
+permalink: /faq/
+---
+
 # Vad är en smideskurs?
 
-En smideskurs är en praktisk utbildning där du lär dig grunderna i hur man formar metall med eld och verktyg. Du får prova på klassiskt järnsmide, skapa egna föremål och förstå hur metall reagerar på värme och kraft.
+Våra smideskurser är praktiska utbildningar där du lär dig grunderna i hur man formar metall med eld och olika verktyg. Du får prova på klassiskt järnsmide, skapa egna föremål och förstå hur metall reagerar på värme och kraft.
 
 # Hur mycket erfarenhet behöver jag för att gå en smideskurs?
 
 Ingen alls. Våra kurser är byggda för nybörjare, och du får en trygg introduktion till både verktyg och teknik. Inga förkunskaper krävs – bara nyfikenhet och viljan att arbeta med händerna.
+
+# Vad är en svetskurs?
+
+På våra svetskurser får du lära dig hur du korrekt använder MMA-svets, samt MIG/MAG-svets, säkerhetsutrustning, och svetsteknik. Du kommer att få svetsa ihop både praktiska och snygga saker som du självklart får ta med dig hem. 
 
 # Hur börjar man med metallarbete?
 
