@@ -1,6 +1,7 @@
 ---
 layout: faq
 permalink: /faq/
+title: Vanliga frågor 
 ---
 
 # Vad är en smideskurs?
