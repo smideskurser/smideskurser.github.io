@@ -12,7 +12,8 @@
 {% include faq.md %}
 {% endcapture %}
 
-{% assign faq_lines = faq_raw | newlines_to_br | split: "<br />" %}
+{% assign faq_lines = faq_raw | split: "\n" %}
+{{ faq_lines | size }}
 
 <ul>
 {% for line in faq_lines %}
