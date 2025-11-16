@@ -1,3 +1,4 @@
+
 ### Vad är en smideskurs?
 
 Våra smideskurser är praktiska utbildningar där du lär dig grunderna i hur man formar metall med eld och olika verktyg. Du får prova på klassiskt järnsmide, skapa egna föremål och förstå hur metall reagerar på värme och kraft.
