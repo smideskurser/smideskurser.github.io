@@ -42,7 +42,7 @@ Från en till två dagar. Längden står alltid angiven vid respektive kurs.
 
 ### Var hålls kurserna?
 
-Kurserna hålls i vår fullt utrustade verkstad vid Gunnestorpsvägen 25 i Mjöhult på vackra Kullahalvön strax norr om Helsingborg. Varje deltagare får sin egen arbetsplats. Vi erbjuder även företagskurser och gruppbokningar.
+Kurserna hålls [i vår fullt utrustade verkstad vid Gunnestorpsvägen 25 i Mjöhult på vackra Kullahalvön strax norr om Helsingborg.](https://maps.app.goo.gl/83VwZ19L6uyNjknQ9?g_st=ipc) Varje deltagare får sin egen arbetsplats. Vi erbjuder även företagskurser och gruppbokningar.
 
 ### Vad kostar det?
 
