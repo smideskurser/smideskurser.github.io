@@ -1,0 +1,44 @@
+<div class="portfolio-modal">
+  <div class="modal-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
+            <h2>Vanliga frågor</h2>
+            <hr class="star-primary">
+           
+            <div style="text-align:left">
+{% capture faq_raw %}
+{% include faq.md %}
+{% endcapture %}
+
+{% assign faq_lines = faq_raw | split: newline %}
+
+<ul>
+{% for line in faq_lines %}
+  {% if line contains "## " %}
+    {% assign title = line | remove: "## " | strip %}
+    {% assign id = title 
+      | downcase
+      | replace: " ", "-" 
+      | replace: "å", "a" 
+      | replace: "ä", "a"
+      | replace: "ö", "o"
+      | replace: "?", ""
+      | replace: "!", ""
+      | replace: ",", ""
+      | replace: ".", "" %}
+    <li><a href="/faq/#{{ id }}">{{ title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+  
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
