@@ -22,9 +22,6 @@
     {% assign id = title 
       | downcase
       | replace: " ", "-" 
-      | replace: "å", "a" 
-      | replace: "ä", "a"
-      | replace: "ö", "o"
       | replace: "?", ""
       | replace: "!", ""
       | replace: ",", ""
