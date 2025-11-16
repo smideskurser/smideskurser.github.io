@@ -12,7 +12,9 @@
 {% include faq.md %}
 {% endcapture %}
 
-{% assign faq_lines = faq_raw | split: "\n" %}
+
+{% assign faq_lines = fa_raw | split: '
+' %}
 {{ faq_lines | size }}
 
 <ul>
