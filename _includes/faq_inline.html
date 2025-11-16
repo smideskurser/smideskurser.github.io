@@ -12,12 +12,12 @@
 {% include faq.md %}
 {% endcapture %}
 
-{% assign faq_lines = faq_raw | split: newline %}
+{% assign faq_lines = faq_raw | split: "\n" %}
 
 <ul>
 {% for line in faq_lines %}
-  {% if line contains "### " %}
-    {% assign title = line | remove: "### " | strip %}
+  {% if line contains "###" %}
+    {% assign title = line | remove: "#" | strip %}
     {% assign id = title 
       | downcase
       | replace: " ", "-" 
