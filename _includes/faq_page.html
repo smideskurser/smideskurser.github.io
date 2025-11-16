@@ -8,8 +8,10 @@
             <hr class="star-primary">
            
             <div style="text-align:left">
-            {% include faq.md | markdownify %}
-  
+            {% capture faq_raw %}
+            {% include faq.md %}
+            {% endcapture %}
+            {{ faq_raw | markdownify }}
             </div>
             
           </div>
