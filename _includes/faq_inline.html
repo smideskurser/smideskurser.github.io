@@ -15,8 +15,6 @@
 
 {% assign faq_lines = faq_raw | split: '
 ' %}
-{{ faq_lines | size }}
-
 <ul>
 {% for line in faq_lines %}
   {% if line contains "###" %}
