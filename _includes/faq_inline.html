@@ -16,8 +16,8 @@
 
 <ul>
 {% for line in faq_lines %}
-  {% if line contains "## " %}
-    {% assign title = line | remove: "## " | strip %}
+  {% if line contains "### " %}
+    {% assign title = line | remove: "### " | strip %}
     {% assign id = title 
       | downcase
       | replace: " ", "-" 
