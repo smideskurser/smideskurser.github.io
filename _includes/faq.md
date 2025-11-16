@@ -1,7 +1,7 @@
 
 ### Vad är en smideskurs?
 
-Våra smideskurser är praktiska utbildningar där du lär dig grunderna i hur man formar metall med eld och olika verktyg. Du får prova på klassiskt järnsmide, skapa egna föremål och förstå hur metall reagerar på värme och kraft.
+Våra smideskurser är praktiska utbildningar där du lär dig grunderna i hur man formar metall med eld och olika verktyg. Du får prova på klassiskt järnsmide, skapa egna föremål och förstå hur metall reagerar på värme och kraft. Vi har även fördjupningskurs i hur man använder sig av en lufthammare.
 
 ### Hur mycket erfarenhet behöver jag för att gå en smideskurs?
 
@@ -9,7 +9,11 @@ Ingen alls. Våra kurser är byggda för nybörjare, och du får en trygg introd
 
 ### Vad är en svetskurs?
 
-På våra svetskurser får du lära dig hur du korrekt använder MMA-svets, samt MIG/MAG-svets, säkerhetsutrustning, och svetsteknik. Du kommer att få svetsa ihop både praktiska och snygga saker som du självklart får ta med dig hem. 
+På [vår svetskurs](/svetsning/) får du lära dig hur du korrekt använder MMA-svets, samt MIG/MAG-svets, säkerhetsutrustning, och svetsteknik. Du kommer att få svetsa ihop både praktiska och snygga saker som du självklart får ta med dig hem. 
+
+### Vad är en gjutningskurs?
+
+På [vår gjutningskurs får du lära dig sandgjutning](/sandgjutning/); Hur man skapar gjutformar,  smälter metall, och använder gjututrustningen korrekt och säkert. Gjutning ger dig möjligheten till väldigt fritt skapande och formgivning. Självklart  får du ta med dig hem vad du skapar. 
 
 ### Hur börjar man med metallarbete?
 
@@ -52,6 +56,6 @@ Priset varierar beroende på kursens längd och innehåll. Våra kurser kostar m
 
 Självklart. Allt du tillverkar under kursen är ditt. Det brukar vara något att vara stolt över – och ett minne av att du faktiskt har skapat något av metall med egna händer.
 
-### Är det verkligen något för mig?
+### Är smide/svetsning/gjutning verkligen något för mig?
 
 Om du gillar att skapa något konkret, vill prova något utanför vardagen och uppskattar doften av järn och eld – då är svaret ja. Det ser kraftfullt ut, men smide handlar mer om teknik än styrka. Du lär dig hur järnet “beter sig” och hur du formar det effektivt. Många som aldrig hållit i en hammare tidigare blir förvånade över hur snabbt de kommer in i det.
