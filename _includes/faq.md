@@ -1,7 +1,7 @@
 
 ### Vad är en smideskurs?
 
-Våra smideskurser är praktiska utbildningar där du lär dig grunderna i hur man formar metall med eld och olika verktyg. Du får prova på klassiskt järnsmide, skapa egna föremål och förstå hur metall reagerar på värme och kraft. Vi har även fördjupningskurs i hur man använder sig av en lufthammare.
+Våra smideskurser är praktiska utbildningar där du lär dig grunderna i hur man formar metall med eld och olika verktyg. Du får prova på [klassiskt järnsmide](/smide/), skapa egna föremål och förstå hur metall reagerar på värme och kraft. Vi har även fördjupningskurs i [hur man använder sig av en lufthammare](/lufthammare/).
 
 ### Hur mycket erfarenhet behöver jag för att gå en smideskurs?
 
@@ -22,7 +22,7 @@ Det enklaste sättet att börja är att gå [en introduktionskurs i smide](/smid
 
 ### Vad får jag göra på kurserna?
 
-På våra smideskurser får lära dig hur man formar järn med hammare, städ, och andra verktyg, använder ässjan. Andra kurser lär ut olika tekniker som svetsning och gjutning. Många deltagare tillverkar något eget, till exempel en krok, ljusstake eller liten kniv.
+På våra smideskurser får lära dig hur man formar järn med hammare, städ, och andra verktyg, och hur man använder ässjan. Andra kurser lär ut olika tekniker som svetsning och gjutning. Många deltagare tillverkar något eget, till exempel en krok, ljusstake eller liten kniv.
 
 ### Är smide farligt?
 
@@ -58,4 +58,4 @@ Självklart. Allt du tillverkar under kursen är ditt. Det brukar vara något at
 
 ### Är smide/svetsning/gjutning verkligen något för mig?
 
-Om du gillar att skapa något konkret, vill prova något utanför vardagen och uppskattar doften av järn och eld – då är svaret ja. Det ser kraftfullt ut, men smide handlar mer om teknik än styrka. Du lär dig hur järnet “beter sig” och hur du formar det effektivt. Många som aldrig hållit i en hammare tidigare blir förvånade över hur snabbt de kommer in i det.
+Om du gillar att skapa något konkret, vill prova något utanför vardagen och uppskattar doften av järn och eld – då är svaret ja. Det ser kraftfullt ut, men metallarbete handlar mer om teknik än styrka. Du lär dig hur metallen “beter sig” och hur du formar det effektivt. Många som aldrig hållit i en hammare tidigare blir förvånade över hur snabbt de kommer in i det.
