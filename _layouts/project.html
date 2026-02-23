@@ -1,17 +1,13 @@
 ---
 layout: default
 ---
-
 <div class="container">
-
-  {% bookshop page-heading title=page.title description=page.subtitle %}
+  {% include page-heading.html title=page.title description=page.subtitle %}
   {% assign page_image = site.baseurl | append: page.image %}
-  {% bookshop page-image image=page_image %}
-
+  {% include page-image.html image=page_image %}
   <div class="page animate">
     {{ content }}
   </div>
-
   {% if page.previous.url %}
   <div class="project__navigation animate">
     <a class="project__prev" href="{{page.previous.url}}">
@@ -22,11 +18,9 @@ layout: default
     </a>
   </div>
   {% endif %}
-
 </div>
-
-{% bookshop
-  newsletter newsletter_title=site.data.newsletter.newsletter_title
+{% include newsletter.html 
+  newsletter_title=site.data.newsletter.newsletter_title
   newsletter_description=site.data.newsletter.newsletter_description
   newsletter_identifier=site.data.newsletter.newsletter_identifier
   newsletter_button=site.data.newsletter.newsletter_button
