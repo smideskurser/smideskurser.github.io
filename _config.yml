@@ -1,7 +1,6 @@
-title: Vonge
+title: Smideskurser by Fännick
 
 plugins:
-  - jekyll-bookshop
   - jekyll-sitemap
   - jekyll/tagging
 
