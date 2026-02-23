@@ -1,7 +1,7 @@
 ---
 layout: page
 modal-id: 5
-img: lufthammare_900x650.jpg
+image: /images/lufthammare_900x650.jpg
 alt: lufthammare
 nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
