@@ -1,21 +1,12 @@
 title: Vonge
 
 plugins:
-  - jekyll-bookshop
   - jekyll-sitemap
   - jekyll/tagging
-
-# Multiple bookshops can be used on one website,
-# or different production / staging locations.
-bookshop_locations:
-  - ../component-library
 
 exclude:
   - postcss.config.js
   - node_modules
-
-include:
-  - _cloudcannon
 
 collections_dir: 'collections'
 
