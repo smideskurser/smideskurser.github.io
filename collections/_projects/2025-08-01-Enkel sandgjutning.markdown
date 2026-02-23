@@ -1,7 +1,7 @@
 ---
 layout: page
 modal-id: 7
-img: sandgjutning_900x650.jpg
+image: /images/sandgjutning_900x650.jpg
 alt: sandgjutning
 nar: Helger efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
