@@ -1,7 +1,7 @@
 ---
 layout: page
 modal-id: 6
-img: konstsmide_900x650.jpg
+image: /images/konstsmide_900x650.jpg
 alt: Konstsmide
 nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
