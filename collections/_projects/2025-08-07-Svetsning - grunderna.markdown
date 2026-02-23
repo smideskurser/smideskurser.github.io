@@ -1,7 +1,7 @@
 ---
 layout: page
 modal-id: 1
-img: svetskurs_900x650.png
+image: /images/svetskurs_900x650.png
 alt: Svetskurs
 nar: Se Medborgarskolans webbsida
 var: Gunnestorpsvägen 25, Mjöhult
