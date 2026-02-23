@@ -2,15 +2,11 @@ logo_image: '/images/logo.svg' # You can add own logo. For example '/images/logo
 
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Hem'
       url: '/'
-    - title: 'Projects'
+    - title: 'Kurser'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'Blågg'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'Om oss'
+    - url: '/about/'
