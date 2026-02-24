@@ -11,6 +11,17 @@ description: En grundkurs i klassiskt varmsmide. Vi går igenom de flesta nödv�
 permalink: /smide/
 ---
 
+
+### Sammanfattning
+
+{{ page.description }}
+
+| Var? | När? | Pris? |
+| --- | --- | --- |
+| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
+
+
+
 ### Upplägg
 
 Helgkurs. Lördag 10-17 och söndag 9-15
