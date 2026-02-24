@@ -10,6 +10,16 @@ description: "En konstnär har stor användning för olika metalltekniker i sin 
 permalink: /kostsmide/
 ---
 
+
+### Sammanfattning
+
+{{ page.description }}
+
+| Var? | När? | Pris? |
+| --- | --- | --- |
+| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
+
+
 ### Upplägg
 
 12 timmar. Helgkurser eller vardagar. Kontakta oss med önskemål.
