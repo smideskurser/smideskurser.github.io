@@ -3228,6 +3228,7 @@
     bottom: 0;
     transform: none;
     transition: none;
+    opacity: 1;
   }
 
   .c-project-card:hover .c-project-card__title {
