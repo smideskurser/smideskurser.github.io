@@ -1,7 +1,7 @@
 ---
 layout: page
 modal-id: 3
-img: byggvard_900x650.jpg
+image: /images/byggvard_900x650.jpg
 alt: Byggvård
 var: Gunnestorpsvägen 25, Mjöhult
 nar: Enligt överenskommelse
