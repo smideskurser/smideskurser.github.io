@@ -19,7 +19,6 @@ permalink: /sandgjutning/
 | {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
 
 
-
 ### Upplägg
 
 Helgkurs. Lördag 10-17 och söndag 9-15. Kontakta oss för detaljer.
