@@ -6,4 +6,4 @@ menu__settings:
     - title: 'Kurser'
       url: '/kurser/'
     - title: 'Om oss'
-    - url: '/om/'
+      url: '/om/'
