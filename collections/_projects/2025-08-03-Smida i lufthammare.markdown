@@ -10,6 +10,17 @@ description: "En praktisk heldagskurs där du får möjlighet att smida i en kla
 permalink: /lufthammare/
 ---
 
+
+### Sammanfattning
+
+{{ page.description }}
+
+| Var? | När? | Pris? |
+| --- | --- | --- |
+| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
+
+
+
 ### Upplägg
 
 Heldag. Efter deltagares önskemål. Vardag, helg. 
