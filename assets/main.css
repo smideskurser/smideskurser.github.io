@@ -3231,6 +3231,10 @@
     opacity: 1;
   }
 
+.c-project-card__info-wrap
+{
+	overflow: visible;
+}
   .c-project-card:hover .c-project-card__title {
     transform: none;
   }
