@@ -10,6 +10,17 @@ description: "Under denna kurs tittar vi på enkel metallbearbetning som du kan 
 permalink: /byggvard/
 ---
 
+
+### Sammanfattning
+
+{{ page.description }}
+
+| Var? | När? | Pris? |
+| --- | --- | --- |
+| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
+
+
+
 ### Upplägg
 
 8-12 timmar. Kom med önskemål om upplägg. Kvällstid, dagtid, helger osv..
