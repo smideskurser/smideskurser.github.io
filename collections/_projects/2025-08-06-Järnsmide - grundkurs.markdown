@@ -1,7 +1,7 @@
 ---
 layout: page
 modal-id: 2
-img: smide_900x650.png
+image: /images/smide_900x650.png
 alt: smide
 var: Gunnestorpsvägen 25, Mjöhult
 nar: Se Medborgarskolans webbsida
