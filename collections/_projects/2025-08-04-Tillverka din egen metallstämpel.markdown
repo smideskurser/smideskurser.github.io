@@ -10,6 +10,17 @@ description: "En grundkurs i manuell tillverkning av egna stämplar för varm- e
 permalink: /stampel/
 ---
 
+
+### Sammanfattning
+
+{{ page.description }}
+
+| Var? | När? | Pris? |
+| --- | --- | --- |
+| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
+
+
+
 ### Upplägg
 
 8 timmar. Kom med önskemål om upplägg. Kvällstid, dagtid, helger osv..
