@@ -5,7 +5,5 @@ menu__settings:
       url: '/'
     - title: 'Kurser'
       url: '/kurser/'
-    - title: 'Blågg'
-      url: '/blog/'
     - title: 'Om oss'
     - url: '/om/'
