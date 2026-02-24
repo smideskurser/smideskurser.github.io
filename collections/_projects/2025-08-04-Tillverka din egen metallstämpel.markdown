@@ -1,7 +1,7 @@
 ---
 layout: page
 modal-id: 4
-img: stamplar_900x650.png
+image: /images/stamplar_900x650.png
 alt: stämplar
 nar: Efter överenskommelse
 var: Gunnestorpsvägen 25, Mjöhult
