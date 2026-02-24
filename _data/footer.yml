@@ -6,8 +6,6 @@ footer_menu__settings:
       url: '/kurser/'
     - title: 'Om oss'
       url: '/om/'
-    - title: 'Blågg'
-      url: '/blog/'
 
 copyright_text_html: >-
   <p> 2025 &copy; <a href="/">Niklas Fännick</a>.</p>
