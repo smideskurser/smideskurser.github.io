@@ -11,10 +11,22 @@ description: En kurs i grundläggande teknik och materialkännedom för att kunn
 permalink: /svetsning/
 ---
 
+
+### Sammanfattning
+
+{{ page.description }}
+
+| Var? | När? | Pris? |
+| --- | --- | --- |
+| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
+
+
+
 ### Upplägg
 
 Helgkurs. Lördag 10-17 och söndag 9-15
 20 och 21 september
+
 
 ### För vem
 
@@ -31,3 +43,5 @@ Svetsmaterial för övningar ingår. Svetsmaterial för egna projekt till själv
 ### Bra att veta
 
 Kaffe och te finns på plats. Ta med egen lunch. Mikro och kylskåp finns. Smedjan ligger på landet, med ca 4 km till Jonstorp (ICA mm) och ca 8 km till Höganäs. Området har gott om övernattningsalternativ för långväga deltagare. Gott om parkering vid smedjan.
+
+
