@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Järnsmide - grundkurs"
 modal-id: 2
 image: /images/smide_900x650.png
 alt: smide
