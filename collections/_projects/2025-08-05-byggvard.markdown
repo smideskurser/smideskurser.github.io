@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Smide för byggnadsvårdare"
 modal-id: 3
 image: /images/byggvard_900x650.jpg
 alt: Byggvård
