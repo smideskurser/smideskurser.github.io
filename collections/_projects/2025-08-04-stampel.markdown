@@ -1,6 +1,6 @@
 ---
 layout: page
-title; "Tillverka din egen metallstämpel"
+title: "Tillverka din egen metallstämpel"
 modal-id: 4
 image: /images/stamplar_900x650.png
 alt: stämplar
