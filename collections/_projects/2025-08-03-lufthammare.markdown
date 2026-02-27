@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Smida i lufthammare"
 modal-id: 5
 image: /images/lufthammare_900x650.jpg
 alt: lufthammare

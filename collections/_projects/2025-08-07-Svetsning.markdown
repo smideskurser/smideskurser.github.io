@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Svetsning - grunderna"
 modal-id: 1
 image: /images/svetskurs_900x650.png
 alt: Svetskurs
