@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Metallhantverk för konstnärer"
 modal-id: 6
 image: /images/konstsmide_900x650.jpg
 alt: Konstsmide
