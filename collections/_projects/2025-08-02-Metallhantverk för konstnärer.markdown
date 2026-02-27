@@ -44,3 +44,6 @@ Kaffe och te finns på plats. Ta med egen lunch. Mikro och kylskåp finns. Smedj
 ### Anmälan
 
 Kontakta oss direkt via formulär, mejl eller telefon för info eller anmälan.
+
+
+
