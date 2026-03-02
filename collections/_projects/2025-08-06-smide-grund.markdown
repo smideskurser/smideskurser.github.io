@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Järnsmide - grundkurs"
 modal-id: 2
 image: /images/smide_900x650.png
@@ -11,15 +11,6 @@ anmalan: https://www.medborgarskolan.se/arrangemang-sok/jarnsmide-grunderna-1471
 description: En grundkurs i klassiskt varmsmide. Vi går igenom de flesta nödvändiga varmsmidestekniker genom smide av enkla bruksföremål. För värmning använder vi oss av gasässja, som är en enkel och effektiv ässja för den som har smide som hobby. Vi kikar på brandsäkerhet och arbetsmiljö.
 permalink: /smide/
 ---
-
-
-### Sammanfattning
-
-{{ page.description }}
-
-| Var? | När? | Pris? |
-| --- | --- | --- |
-| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
 
 
 

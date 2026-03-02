@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Enkel sandgjutning"
 modal-id: 7
 image: /images/sandgjutning_900x650.jpg
@@ -10,14 +10,6 @@ pris: 3500 kr
 description: "En grundkurs i enkel sandgjutning i metall. Du får lära dig grundläggande teknik för att kunna börja med gjutning som hobby. Vi packar gjutflaskor, smälter metall och gjuter små föremål. Aluminium och mässing i första hand."
 permalink: /sandgjutning/
 ---
-
-### Sammanfattning
-
-{{ page.description }}
-
-| Var? | När? | Pris? |
-| --- | --- | --- |
-| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
 
 
 ### Upplägg

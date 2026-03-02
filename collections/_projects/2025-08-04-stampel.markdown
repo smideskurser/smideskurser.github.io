@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Tillverka din egen metallstämpel"
 modal-id: 4
 image: /images/stamplar_900x650.png
@@ -10,15 +10,6 @@ pris: 4200 kr
 description: "En grundkurs i manuell tillverkning av egna stämplar för varm- eller kallstämpling i metall eller trä. Vi använder oss av handarbetsmetoder så som filning, borrning, mejsling, sågning och härdning för att skapa egna stämplar efter egen design. Observera att inte alla designer går att tillverka på manuell väg, men vi gör vad vi kan för att förverkliga din idé."
 permalink: /stampel/
 ---
-
-
-### Sammanfattning
-
-{{ page.description }}
-
-| Var? | När? | Pris? |
-| --- | --- | --- |
-| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
 
 
 

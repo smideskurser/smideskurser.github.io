@@ -6,7 +6,46 @@ layout: default
   {% assign page_image = site.baseurl | append: page.image %}
   {% include page-image.html image=page_image %}
   <div class="page animate">
+  
+            {% if page.description %}
+            <p>{{ page.description }}</p>
+            {% endif %}
+            <!-- Originally with list-inline -->
+            <ul class="list-unstyled">
+              {% if page.nar %}
+              <li>När:
+                <strong>{{ page.nar }}</strong>
+              </li>
+              {% endif %}
+              {% if page.var %}
+              <li>Var:
+                <strong><a href="https://www.google.se/maps/search/{{ page.var }}" target="_blank">{{ page.var }}</a></strong>
+              </li>
+              {% endif %}
+              {% if page.pris %}
+              <li>Pris:
+                <strong>{{ page.pris }}</strong>
+              </li>
+              {% endif %}
+            </ul>
+              {% if page.anmalan %}
+              <p>
+                <a href="{{ page.anmalan }}" class="btn btn-success btn-lg" target="_blank">
+          <i class="fa fa-external-link-alt"></i> Anmäl dig här</a>
+             </p>
+             {% else %}
+             <p>
+                <a href="#anmalan{{ page.modal-id }}" class="btn btn-success btn-lg" >
+           Anmäl dig längst ner</a>
+             </p>
+              {% endif %}
+
     {{ content }}
+    
+{% if page.anmalan %}
+
+{% endif %}
+ 
   </div>
   {% if page.previous.url %}
   <div class="project__navigation animate">
@@ -19,9 +58,3 @@ layout: default
   </div>
   {% endif %}
 </div>
-{% include newsletter.html
-  newsletter_title=site.data.newsletter.newsletter_title
-  newsletter_description=site.data.newsletter.newsletter_description
-  newsletter_identifier=site.data.newsletter.newsletter_identifier
-  newsletter_button=site.data.newsletter.newsletter_button
-%}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Svetsning - grunderna"
 modal-id: 1
 image: /images/svetskurs_900x650.png
@@ -11,15 +11,6 @@ anmalan: https://www.medborgarskolan.se/arrangemang-sok/svetsning-grunderna-1471
 description: En kurs i grundläggande teknik och materialkännedom för att kunna ha svetsning som hobby eller fixa saker själv hemma. Fokus lägger vi på övning i manuell metallbågsvetsning (MMA) som är den vanligast förekommande typen av svetsning, men vi provar också MIG/MAG och gassvetsning (acetylen/oxygen). Du får lära dig grundläggande om brandskydd och arbetsmiljö för att kunna arbeta på ett säkert sätt.
 permalink: /svetsning/
 ---
-
-
-### Sammanfattning
-
-{{ page.description }}
-
-| Var? | När? | Pris? |
-| --- | --- | --- |
-| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
 
 
 

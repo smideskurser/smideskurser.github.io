@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Smida i lufthammare"
 modal-id: 5
 image: /images/lufthammare_900x650.jpg
@@ -10,15 +10,6 @@ pris: 4800 kr
 description: "En praktisk heldagskurs där du får möjlighet att smida i en klassisk fyrtiokilos lufthammare. Vi provar på lackning/doning av hål, räckning, smide med sänke och sätthammare. Kom gärna med önskemål om vad du vill smida på förhand, så kan vi förbereda bättre."
 permalink: /lufthammare/
 ---
-
-
-### Sammanfattning
-
-{{ page.description }}
-
-| Var? | När? | Pris? |
-| --- | --- | --- |
-| {{ page.var }} | {{ page.nar }} | {{ page.pris }} |
 
 
 
