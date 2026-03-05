@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Järnsmide - grundkurs"
-modal-id: 2
 image: /images/smide_900x650.png
 alt: smide
 var: Gunnestorpsvägen 25, Mjöhult

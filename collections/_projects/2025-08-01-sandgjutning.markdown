@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Enkel sandgjutning"
-modal-id: 7
 image: /images/sandgjutning_900x650.jpg
 alt: sandgjutning
 nar: Helger efter överenskommelse

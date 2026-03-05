@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Smide för byggnadsvårdare"
-modal-id: 3
 image: /images/byggvard_900x650.jpg
 alt: Byggvård
 var: Gunnestorpsvägen 25, Mjöhult

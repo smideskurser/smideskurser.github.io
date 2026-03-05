@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Tillverka din egen metallstämpel"
-modal-id: 4
 image: /images/stamplar_900x650.png
 alt: stämplar
 nar: Efter överenskommelse
