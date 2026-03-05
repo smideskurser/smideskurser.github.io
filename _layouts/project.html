@@ -42,9 +42,12 @@ layout: default
 
     {{ content }}
     
-{% if page.anmalan %}
-
-{% endif %}
+{% include contact-form.html
+  form_title="Kontakta mig"
+  form_description="Har du frågor? Jag har svar."
+  form_submission_email="niklasfannick@gmail.com"
+  form_button_text="Skicka"
+%}
  
   </div>
   {% if page.previous.url %}
