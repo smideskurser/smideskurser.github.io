@@ -7,7 +7,7 @@
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.general_settings.description }}{% endif %}'>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.general_settings.title }}{% else %}{{ page.title }} – {{ site.data.general_settings.title }}{% endif %}">
