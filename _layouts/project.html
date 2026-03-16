@@ -12,6 +12,11 @@ layout: default
             {% endif %}
             <!-- Originally with list-inline -->
             <ul class="list-unstyled">
+              {% if page.pris %}
+              <li>Pris:
+                <strong>{{ page.pris }}</strong>
+              </li>
+              {% endif %}
               {% if page.nar %}
               <li>När:
                 <strong>{{ page.nar }}</strong>
@@ -21,11 +26,6 @@ layout: default
               <li>Var:
                 <strong><a href="https://www.google.se/maps/search/{{ page.var }}" target="_blank">{{ page.var }}</a></strong>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2089.8559863215287!2d12.678519099999999!3d56.192887199999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465229259fe9d211%3A0x372503da27b42ae4!2sGunnestorpsv%C3%A4gen%2025%2C%20263%2093%20Mj%C3%B6hult!5e1!3m2!1sen!2sse!4v1773657740893!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-              </li>
-              {% endif %}
-              {% if page.pris %}
-              <li>Pris:
-                <strong>{{ page.pris }}</strong>
               </li>
               {% endif %}
             </ul>
