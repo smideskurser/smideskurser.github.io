@@ -5,6 +5,18 @@ description: Development zone
 permalink: /dev/
 ---
 <style>
+.flex-container {
+  display: flex;        /* side by side layout */
+  align-items: stretch; /* make image stretch to paragraph height */
+  gap: 15px;            /* spacing between image and text */
+}
+
+.flex-container img {
+  height: auto;         /* natural height scaling */
+  max-height: 100%;     /* will not exceed paragraph height */
+  object-fit: cover;    /* keep proportions */
+}
+  
 .text-image-container {
   display: flex;          /* Make the container a flex row */
   align-items: stretch;   /* Make children stretch to the same height */
@@ -34,7 +46,7 @@ permalink: /dev/
 
 <h2>Kursledare</h2>
 
-<div class="float-container"><img src="/images/Niklas_mugshot.jpg" class="left-image"><p>Niklas Fännick är konstsmed med mästarbrev och har arbetat med metallkonst i offentlig miljö, kulturhistoriskt och modernt smide i över 15 år. Han har varit gästlärare på yrkesutbildning för smide och hållit kurser i svets och smide.</p></div>
+<div class="flex-container"><img src="/images/Niklas_mugshot.jpg"><p>Niklas Fännick är konstsmed med mästarbrev och har arbetat med metallkonst i offentlig miljö, kulturhistoriskt och modernt smide i över 15 år. Han har varit gästlärare på yrkesutbildning för smide och hållit kurser i svets och smide.</p></div>
 
 <h2>Faciliteter</h2>
 
