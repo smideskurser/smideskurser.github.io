@@ -15,13 +15,26 @@ permalink: /dev/
   height: 100%;           /* Make image take full container height */
   object-fit: cover;      /* Keeps aspect ratio, crops if needed */
 }
+
+.float-container {
+  overflow: hidden; /* Contains the float */
+  position: relative;
+}
+
+.left-image {
+  float: left;
+  width: auto;         /* Adjust width as needed */
+  height: 100%;        /* Try to match container height */
+  object-fit: cover;   /* Keeps image proportions */
+  margin-right: 15px;  /* Space between image and text */
+}
 </style>
 
 <h1>Allmän information för alla kurser</h1>
 
 <h2>Kursledare</h2>
 
-<div class="text-image-container"><img src="/images/Niklas_mugshot.jpg"><p>Niklas Fännick är konstsmed med mästarbrev och har arbetat med metallkonst i offentlig miljö, kulturhistoriskt och modernt smide i över 15 år. Han har varit gästlärare på yrkesutbildning för smide och hållit kurser i svets och smide.</p></div>
+<div class="float-container"><img src="/images/Niklas_mugshot.jpg" class="left-image"><p>Niklas Fännick är konstsmed med mästarbrev och har arbetat med metallkonst i offentlig miljö, kulturhistoriskt och modernt smide i över 15 år. Han har varit gästlärare på yrkesutbildning för smide och hållit kurser i svets och smide.</p></div>
 
 <h2>Faciliteter</h2>
 
