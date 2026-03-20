@@ -4,16 +4,56 @@ title: Development
 description: Development zone
 permalink: /dev/
 ---
+<style>
+.flex-container {
+  display: flex;        /* side by side layout */
+  align-items: stretch; /* make image stretch to paragraph height */
+  gap: 15px;            /* spacing between image and text */
+}
+
+.flex-container img {
+  height: 20em;         /* natural height scaling */
+  max-height: 100%;     /* will not exceed paragraph height */
+  object-fit: cover;    /* keep proportions */
+}
+  
+.text-image-container {
+  display: flex;          /* Make the container a flex row */
+  align-items: stretch;   /* Make children stretch to the same height */
+  gap: 15px;              /* Optional space between image and text */
+}
+
+.text-image-container img {
+  height: 100%;           /* Make image take full container height */
+  object-fit: cover;      /* Keeps aspect ratio, crops if needed */
+}
+
+.float-container {
+  overflow: hidden; /* Contains the float */
+  position: relative;
+}
+
+.left-image {
+  float: left;
+  width: auto;         /* Adjust width as needed */
+  height: 100%;        /* Try to match container height */
+  object-fit: cover;   /* Keeps image proportions */
+  margin-right: 15px;  /* Space between image and text */
+}
+</style>
 
 <h1>Allmän information för alla kurser</h1>
 
 <h2>Kursledare</h2>
 
-<img src="/images/Niklas_mugshot.jpg" style="flowt:left"> Niklas Fännick är konstsmed med mästarbrev och har arbetat med metallkonst i offentlig miljö, kulturhistoriskt och modernt smide i över 15 år. Han har varit gästlärare på yrkesutbildning för smide och hållit kurser i svets och smide.
+<div class="flex-container"><img src="/images/Niklas_mugshot.jpg"><p>Niklas Fännick är konstsmed med mästarbrev och har arbetat med metallkonst i offentlig miljö, kulturhistoriskt och modernt smide i över 15 år. Han har varit gästlärare på yrkesutbildning för smide och hållit kurser i svets och smide.</p></div>
 
 <h2>Faciliteter</h2>
 
-Kaffe och te finns på plats. Ta med egen lunch. Mikro och kylskåp finns. Smedjan ligger på landet, med ca 4 km till Jonstorp (ICA mm) och ca 8 km till Höganäs. <a href="https://www.airbnb.com/s/Mjöhult--Skåne/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJWckHpMsuUkYRkDxAo3qQAQo&location_bb=QmC2yEFK3JRCYLQEQUrRhw%3D%3D&acp_id=2a0995d6-3140-451c-b775-bb3eb996a949&date_picker_type=calendar&adults=1&search_type=autocomplete_click&drawer_open=true">Området har gott om övernattningsalternativ för långväga deltagare.</a> Gott om parkering vid smedjan.
+<p>Kaffe och te finns på plats. Ta med egen lunch. Mikro och kylskåp finns. Smedjan ligger på landet, med ca 4 km till Jonstorp (ICA mm) och ca 8 km till Höganäs. <a href="https://www.airbnb.com/s/Mjöhult--Skåne/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJWckHpMsuUkYRkDxAo3qQAQo&location_bb=QmC2yEFK3JRCYLQEQUrRhw%3D%3D&acp_id=2a0995d6-3140-451c-b775-bb3eb996a949&date_picker_type=calendar&adults=1&search_type=autocomplete_click&drawer_open=true">Området har gott om övernattningsalternativ för långväga deltagare.</a> Gott om parkering vid smedjan.</p>
+
+{% include map.html %}
+
 
 <script src="//widget.simplybook.it/v2/widget/widget.js" type="text/javascript"></script>
 <script type="text/javascript">
